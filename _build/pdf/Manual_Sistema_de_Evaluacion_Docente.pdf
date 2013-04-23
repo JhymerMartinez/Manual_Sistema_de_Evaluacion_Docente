@@ -1,0 +1,3418 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 30 0 R
+ /F4 31 0 R
+ /F5 32 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+5 0 obj
+<< /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /Rect [ 40.01575
+ 754.7894
+ 221.6957
+ 766.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /Rect [ 549.6998
+ 754.7894
+ 555.2598
+ 766.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /Rect [ 60.01575
+ 736.7894
+ 150.6257
+ 748.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /Rect [ 549.6998
+ 736.7894
+ 555.2598
+ 748.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Rect [ 80.01575
+ 718.7894
+ 113.9157
+ 730.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Rect [ 549.6998
+ 718.7894
+ 555.2598
+ 730.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Rect [ 80.01575
+ 700.7894
+ 146.7057
+ 712.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Rect [ 549.6998
+ 700.7894
+ 555.2598
+ 712.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /Rect [ 80.01575
+ 682.7894
+ 135.5857
+ 694.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /Rect [ 549.6998
+ 682.7894
+ 555.2598
+ 694.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Rect [ 100.0157
+ 664.7894
+ 154.4857
+ 676.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Rect [ 549.6998
+ 664.7894
+ 555.2598
+ 676.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Rect [ 100.0157
+ 646.7894
+ 183.9457
+ 658.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Rect [ 549.6998
+ 646.7894
+ 555.2598
+ 658.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Rect [ 80.01575
+ 628.7894
+ 145.0457
+ 640.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Rect [ 549.6998
+ 628.7894
+ 555.2598
+ 640.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Rect [ 80.01575
+ 610.7894
+ 135.0257
+ 622.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Rect [ 549.6998
+ 610.7894
+ 555.2598
+ 622.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Rect [ 80.01575
+ 592.7894
+ 114.4657
+ 604.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Rect [ 549.6998
+ 592.7894
+ 555.2598
+ 604.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Rect [ 40.01575
+ 574.7894
+ 126.7157
+ 586.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Rect [ 549.6998
+ 574.7894
+ 555.2598
+ 586.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+28 0 obj
+<< /Annots [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R ]
+ /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+29 0 obj
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+30 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+31 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+32 0 obj
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 583.0394
+ 0 ]
+ /Rect [ 365.7057
+ 290.5894
+ 421.2757
+ 302.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://yahoo.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 158.0509
+ 163.7894
+ 188.0965
+ 175.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 327.4394
+ 0 ]
+ /Rect [ 388.9416
+ 163.7894
+ 454.0229
+ 175.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+36 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.intercambiosvirtuales.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 151.7894
+ 130.5957
+ 163.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+37 0 obj
+<< /Annots [ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R ]
+ /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+38 0 obj
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+39 0 obj
+<< /Outlines 41 0 R
+ /PageLabels 60 0 R
+ /PageMode /UseNone
+ /Pages 53 0 R
+ /Type /Catalog >>
+endobj
+40 0 obj
+<< /Author ()
+ /CreationDate (D:20000101000000+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+41 0 obj
+<< /Count 14
+ /First 42 0 R
+ /Last 52 0 R
+ /Type /Outlines >>
+endobj
+42 0 obj
+<< /Count 9
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /First 43 0 R
+ /Last 43 0 R
+ /Next 52 0 R
+ /Parent 41 0 R
+ /Title (SISTEMA DE EVALUACI\323N DOCENTE) >>
+endobj
+43 0 obj
+<< /Count 8
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /First 44 0 R
+ /Last 51 0 R
+ /Parent 42 0 R
+ /Title (Sphinx ceando tabla) >>
+endobj
+44 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Next 45 0 R
+ /Parent 43 0 R
+ /Title (Tema 4) >>
+endobj
+45 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Next 46 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
+ /Title (Formatting text) >>
+endobj
+46 0 obj
+<< /Count 2
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /First 47 0 R
+ /Last 48 0 R
+ /Next 49 0 R
+ /Parent 43 0 R
+ /Prev 45 0 R
+ /Title (Making a list) >>
+endobj
+47 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Next 48 0 R
+ /Parent 46 0 R
+ /Title (Bullet points) >>
+endobj
+48 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Parent 46 0 R
+ /Prev 47 0 R
+ /Title (Enumerated points) >>
+endobj
+49 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Next 50 0 R
+ /Parent 43 0 R
+ /Prev 46 0 R
+ /Title (Making a table) >>
+endobj
+50 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Next 51 0 R
+ /Parent 43 0 R
+ /Prev 49 0 R
+ /Title (Making links) >>
+endobj
+51 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Parent 43 0 R
+ /Prev 50 0 R
+ /Title (This file) >>
+endobj
+52 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Parent 41 0 R
+ /Prev 42 0 R
+ /Title (Indices and tables) >>
+endobj
+53 0 obj
+<< /Count 6
+ /Kids [ 4 0 R
+ 5 0 R
+ 28 0 R
+ 29 0 R
+ 37 0 R
+ 38 0 R ]
+ /Type /Pages >>
+endobj
+54 0 obj
+<< /Length 931 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 224.282 0 Td (Sphinx) Tj T* -224.282 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 24 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 218.4345 0 Td (version 1.0) Tj T* -218.4345 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 650 cm
+Q
+q
+1 0 0 1 40.01575 629.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 210.276 0 Td (Jhymer Mart\355nez) Tj T* -210.276 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 544.5606 cm
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 15, 2013) Tj T* -218.934 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+Q
+ 
+endstream
+endobj
+55 0 obj
+<< /Length 80 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+56 0 obj
+<< /Length 3106 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Sphinx ceando tabla) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Tema 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Formatting text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making a list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Enumerated points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making a table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (This file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+Q
+ 
+endstream
+endobj
+57 0 obj
+<< /Length 80 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+58 0 obj
+<< /Length 8078 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 763.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Contenidos:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 709.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Sphinx ceando tabla) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 677.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Tema 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 647.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .579743 Tw 12 TL /F1 10 Tf 0 0 0 rg (Here is a quick and dirty cheat sheet for some common stuff you want to do in sphinx and ReST. You can see the) Tj T* 0 Tw (literal source for this file at ) Tj /F4 10 Tf (cheatsheet -literal) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 614.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Formatting text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 596.2394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You use inline markup to make text ) Tj /F4 10 Tf (italics) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (bold) Tj /F1 10 Tf (, or ) Tj /F5 10 Tf (monotype) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 563.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making a list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 545.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is easy to make lists in rest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 515.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 497.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is a subsection making bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 491.0394 cm
+Q
+q
+1 0 0 1 40.01575 491.0394 cm
+Q
+q
+1 0 0 1 40.01575 479.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 473.0394 cm
+Q
+q
+1 0 0 1 40.01575 461.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 455.0394 cm
+Q
+q
+1 0 0 1 40.01575 443.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 443.0394 cm
+Q
+q
+1 0 0 1 40.01575 412.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Enumerated points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 394.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is a subsection making numbered points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 388.6394 cm
+Q
+q
+1 0 0 1 40.01575 388.6394 cm
+Q
+q
+1 0 0 1 40.01575 376.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 370.6394 cm
+Q
+q
+1 0 0 1 40.01575 358.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 352.6394 cm
+Q
+q
+1 0 0 1 40.01575 340.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 340.6394 cm
+Q
+q
+1 0 0 1 40.01575 307.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making a table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 289.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This shows you how to make a table -- if you only want to make a list see ) Tj /F4 10 Tf 0 0 .501961 rg (Making a list) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 283.8394 cm
+Q
+q
+1 0 0 1 40.01575 213.8394 cm
+1 1 1 rg
+n 0 70 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.960784 .960784 .862745 rg
+n 0 70 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 297.1465 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 134.9582 0 Td (Name) Tj T* -134.9582 0 Td ET
+Q
+Q
+q
+1 0 0 1 315.1465 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 194.0976 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 87.60382 0 Td (Age) Tj T* -87.60382 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (John D Hunter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cast of Thousands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (41) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And Still More) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (42) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 309.1465 0 m 309.1465 70 l S
+n 0 70 m 515.2441 70 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 70 l S
+n 515.2441 0 m 515.2441 70 l S
+Q
+Q
+q
+1 0 0 1 40.01575 213.8394 cm
+Q
+q
+1 0 0 1 40.01575 181.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 151.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .025641 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is easy to make a link to ) Tj 0 0 .501961 rg (yahoo ) Tj 0 0 0 rg (or to some section inside this document \(see ) Tj /F4 10 Tf 0 0 .501961 rg (Making a table) Tj /F1 10 Tf 0 0 0 rg (\) or another document.) Tj T* 0 Tw 0 0 .501961 rg (intecambiosvirtuales) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 118.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (This file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 78.23937 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 66.23937 cm
+Q
+q
+1 0 0 1 40.01575 66.23937 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+59 0 obj
+<< /Length 1260 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (genindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (modindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+60 0 obj
+<< /Nums [ 0
+ 61 0 R
+ 1
+ 62 0 R
+ 2
+ 63 0 R
+ 3
+ 64 0 R
+ 4
+ 65 0 R
+ 5
+ 66 0 R ] >>
+endobj
+61 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+62 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+63 0 obj
+<< /S /r
+ /St 1 >>
+endobj
+64 0 obj
+<< /S /r
+ /St 2 >>
+endobj
+65 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+66 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 67
+0000000000 65535 f
+0000000075 00000 n
+0000000160 00000 n
+0000000278 00000 n
+0000000401 00000 n
+0000000634 00000 n
+0000000867 00000 n
+0000001066 00000 n
+0000001265 00000 n
+0000001464 00000 n
+0000001663 00000 n
+0000001863 00000 n
+0000002063 00000 n
+0000002263 00000 n
+0000002463 00000 n
+0000002663 00000 n
+0000002863 00000 n
+0000003063 00000 n
+0000003263 00000 n
+0000003463 00000 n
+0000003663 00000 n
+0000003863 00000 n
+0000004063 00000 n
+0000004263 00000 n
+0000004463 00000 n
+0000004663 00000 n
+0000004863 00000 n
+0000005063 00000 n
+0000005263 00000 n
+0000005703 00000 n
+0000005937 00000 n
+0000006068 00000 n
+0000006195 00000 n
+0000006312 00000 n
+0000006512 00000 n
+0000006706 00000 n
+0000006906 00000 n
+0000007120 00000 n
+0000007402 00000 n
+0000007636 00000 n
+0000007753 00000 n
+0000007972 00000 n
+0000008056 00000 n
+0000008249 00000 n
+0000008414 00000 n
+0000008539 00000 n
+0000008688 00000 n
+0000008877 00000 n
+0000009009 00000 n
+0000009145 00000 n
+0000009293 00000 n
+0000009439 00000 n
+0000009567 00000 n
+0000009704 00000 n
+0000009815 00000 n
+0000010802 00000 n
+0000010937 00000 n
+0000014100 00000 n
+0000014235 00000 n
+0000022370 00000 n
+0000023687 00000 n
+0000023798 00000 n
+0000023837 00000 n
+0000023876 00000 n
+0000023915 00000 n
+0000023954 00000 n
+0000023993 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
+
+ /Info 40 0 R
+ /Root 39 0 R
+ /Size 67 >>
+startxref
+24032
+%%EOF
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 30 0 R
+ /F4 31 0 R
+ /F5 32 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+5 0 obj
+<< /Contents 55 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /Rect [ 40.01575
+ 754.7894
+ 221.6957
+ 766.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /Rect [ 549.6998
+ 754.7894
+ 555.2598
+ 766.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /Rect [ 60.01575
+ 736.7894
+ 150.6257
+ 748.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /Rect [ 549.6998
+ 736.7894
+ 555.2598
+ 748.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Rect [ 80.01575
+ 718.7894
+ 113.9157
+ 730.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Rect [ 549.6998
+ 718.7894
+ 555.2598
+ 730.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Rect [ 80.01575
+ 700.7894
+ 146.7057
+ 712.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Rect [ 549.6998
+ 700.7894
+ 555.2598
+ 712.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /Rect [ 80.01575
+ 682.7894
+ 135.5857
+ 694.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /Rect [ 549.6998
+ 682.7894
+ 555.2598
+ 694.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Rect [ 100.0157
+ 664.7894
+ 154.4857
+ 676.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Rect [ 549.6998
+ 664.7894
+ 555.2598
+ 676.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Rect [ 100.0157
+ 646.7894
+ 183.9457
+ 658.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Rect [ 549.6998
+ 646.7894
+ 555.2598
+ 658.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Rect [ 80.01575
+ 628.7894
+ 145.0457
+ 640.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Rect [ 549.6998
+ 628.7894
+ 555.2598
+ 640.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Rect [ 80.01575
+ 610.7894
+ 135.0257
+ 622.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Rect [ 549.6998
+ 610.7894
+ 555.2598
+ 622.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Rect [ 80.01575
+ 592.7894
+ 114.4657
+ 604.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Rect [ 549.6998
+ 592.7894
+ 555.2598
+ 604.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+26 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Rect [ 40.01575
+ 574.7894
+ 126.7157
+ 586.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+27 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Rect [ 549.6998
+ 574.7894
+ 555.2598
+ 586.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+28 0 obj
+<< /Annots [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R
+ 26 0 R
+ 27 0 R ]
+ /Contents 56 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+29 0 obj
+<< /Contents 57 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+30 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+31 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+32 0 obj
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+33 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 583.0394
+ 0 ]
+ /Rect [ 365.7057
+ 290.5894
+ 421.2757
+ 302.5894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://yahoo.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 158.0509
+ 163.7894
+ 188.0965
+ 175.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 327.4394
+ 0 ]
+ /Rect [ 388.9416
+ 163.7894
+ 454.0229
+ 175.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+36 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.intercambiosvirtuales.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 40.01575
+ 151.7894
+ 130.5957
+ 163.7894 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+37 0 obj
+<< /Annots [ 33 0 R
+ 34 0 R
+ 35 0 R
+ 36 0 R ]
+ /Contents 58 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+38 0 obj
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 53 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+39 0 obj
+<< /Outlines 41 0 R
+ /PageLabels 60 0 R
+ /PageMode /UseNone
+ /Pages 53 0 R
+ /Type /Catalog >>
+endobj
+40 0 obj
+<< /Author ()
+ /CreationDate (D:20000101000000+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+41 0 obj
+<< /Count 14
+ /First 42 0 R
+ /Last 52 0 R
+ /Type /Outlines >>
+endobj
+42 0 obj
+<< /Count 9
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 787.0394
+ 0 ]
+ /First 43 0 R
+ /Last 43 0 R
+ /Next 52 0 R
+ /Parent 41 0 R
+ /Title (SISTEMA DE EVALUACI\323N DOCENTE) >>
+endobj
+43 0 obj
+<< /Count 8
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 729.0394
+ 0 ]
+ /First 44 0 R
+ /Last 51 0 R
+ /Parent 42 0 R
+ /Title (Sphinx ceando tabla) >>
+endobj
+44 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 693.8394
+ 0 ]
+ /Next 45 0 R
+ /Parent 43 0 R
+ /Title (Tema 4) >>
+endobj
+45 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 631.0394
+ 0 ]
+ /Next 46 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
+ /Title (Formatting text) >>
+endobj
+46 0 obj
+<< /Count 2
+ /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 580.2394
+ 0 ]
+ /First 47 0 R
+ /Last 48 0 R
+ /Next 49 0 R
+ /Parent 43 0 R
+ /Prev 45 0 R
+ /Title (Making a list) >>
+endobj
+47 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 529.4394
+ 0 ]
+ /Next 48 0 R
+ /Parent 46 0 R
+ /Title (Bullet points) >>
+endobj
+48 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 427.0394
+ 0 ]
+ /Parent 46 0 R
+ /Prev 47 0 R
+ /Title (Enumerated points) >>
+endobj
+49 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 324.6394
+ 0 ]
+ /Next 50 0 R
+ /Parent 43 0 R
+ /Prev 46 0 R
+ /Title (Making a table) >>
+endobj
+50 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 197.8394
+ 0 ]
+ /Next 51 0 R
+ /Parent 43 0 R
+ /Prev 49 0 R
+ /Title (Making links) >>
+endobj
+51 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 135.0394
+ 0 ]
+ /Parent 43 0 R
+ /Prev 50 0 R
+ /Title (This file) >>
+endobj
+52 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 40.01575
+ 102.2394
+ 0 ]
+ /Parent 41 0 R
+ /Prev 42 0 R
+ /Title (Indices and tables) >>
+endobj
+53 0 obj
+<< /Count 6
+ /Kids [ 4 0 R
+ 5 0 R
+ 28 0 R
+ 29 0 R
+ 37 0 R
+ 38 0 R ]
+ /Type /Pages >>
+endobj
+54 0 obj
+<< /Length 931 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 224.282 0 Td (Sphinx) Tj T* -224.282 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 24 re B*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 218.4345 0 Td (version 1.0) Tj T* -218.4345 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 650 cm
+Q
+q
+1 0 0 1 40.01575 629.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 210.276 0 Td (Jhymer Mart\355nez) Tj T* -210.276 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 544.5606 cm
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL 218.934 0 Td (April 15, 2013) Tj T* -218.934 0 Td ET
+Q
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+Q
+q
+1 0 0 1 40.01575 524.1606 cm
+Q
+ 
+endstream
+endobj
+55 0 obj
+<< /Length 80 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+56 0 obj
+<< /Length 3106 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 183 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 183 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Sphinx ceando tabla) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Tema 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Formatting text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making a list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 60 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Enumerated points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making a table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Making links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 40 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (This file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+Q
+q
+1 0 0 1 40.01575 571.0394 cm
+Q
+ 
+endstream
+endobj
+57 0 obj
+<< /Length 80 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 799.0394 cm
+Q
+ 
+endstream
+endobj
+58 0 obj
+<< /Length 8078 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 763.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Contenidos:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 709.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 25.2 re B*
+Q
+q
+BT 1 0 0 1 0 3.2 Tm 19.2 TL /F2 16 Tf .12549 .262745 .360784 rg (Sphinx ceando tabla) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 677.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Tema 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 647.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .579743 Tw 12 TL /F1 10 Tf 0 0 0 rg (Here is a quick and dirty cheat sheet for some common stuff you want to do in sphinx and ReST. You can see the) Tj T* 0 Tw (literal source for this file at ) Tj /F4 10 Tf (cheatsheet -literal) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 614.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Formatting text) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 596.2394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You use inline markup to make text ) Tj /F4 10 Tf (italics) Tj /F1 10 Tf (, ) Tj /F2 10 Tf (bold) Tj /F1 10 Tf (, or ) Tj /F5 10 Tf (monotype) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 563.4394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making a list) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 545.4394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is easy to make lists in rest) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 515.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 497.0394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is a subsection making bullet points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 491.0394 cm
+Q
+q
+1 0 0 1 40.01575 491.0394 cm
+Q
+q
+1 0 0 1 40.01575 479.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 473.0394 cm
+Q
+q
+1 0 0 1 40.01575 461.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 455.0394 cm
+Q
+q
+1 0 0 1 40.01575 443.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 443.0394 cm
+Q
+q
+1 0 0 1 40.01575 412.6394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 20.4 re B*
+Q
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F3 12 Tf .12549 .262745 .360784 rg (Enumerated points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 394.6394 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This is a subsection making numbered points) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 388.6394 cm
+Q
+q
+1 0 0 1 40.01575 388.6394 cm
+Q
+q
+1 0 0 1 40.01575 376.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point A) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 370.6394 cm
+Q
+q
+1 0 0 1 40.01575 358.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point B) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 352.6394 cm
+Q
+q
+1 0 0 1 40.01575 340.6394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (point C) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 340.6394 cm
+Q
+q
+1 0 0 1 40.01575 307.8394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making a table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 289.8394 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (This shows you how to make a table -- if you only want to make a list see ) Tj /F4 10 Tf 0 0 .501961 rg (Making a list) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 283.8394 cm
+Q
+q
+1 0 0 1 40.01575 213.8394 cm
+1 1 1 rg
+n 0 70 515.2441 -16 re f*
+.878431 .878431 .878431 rg
+n 0 54 515.2441 -18 re f*
+1 1 1 rg
+n 0 36 515.2441 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 515.2441 -18 re f*
+.960784 .960784 .862745 rg
+n 0 70 515.2441 -16 re f*
+.12549 .262745 .360784 rg
+BT /F2 10 Tf 10 TL ET
+q
+1 0 0 1 6 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 297.1465 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 134.9582 0 Td (Name) Tj T* -134.9582 0 Td ET
+Q
+Q
+q
+1 0 0 1 315.1465 57 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 194.0976 10 re f*
+Q
+q
+.12549 .262745 .360784 rg
+BT 1 0 0 1 0 0 Tm /F2 10 Tf 10 TL 87.60382 0 Td (Age) Tj T* -87.60382 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (John D Hunter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (40) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Cast of Thousands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (41) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (And Still More) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.1465 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (42) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 54 m 515.2441 54 l S
+n 0 36 m 515.2441 36 l S
+n 0 18 m 515.2441 18 l S
+n 309.1465 0 m 309.1465 70 l S
+n 0 70 m 515.2441 70 l S
+n 0 0 m 515.2441 0 l S
+n 0 0 m 0 70 l S
+n 515.2441 0 m 515.2441 70 l S
+Q
+Q
+q
+1 0 0 1 40.01575 213.8394 cm
+Q
+q
+1 0 0 1 40.01575 181.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Making links) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 151.0394 cm
+q
+BT 1 0 0 1 0 14 Tm .025641 Tw 12 TL /F1 10 Tf 0 0 0 rg (It is easy to make a link to ) Tj 0 0 .501961 rg (yahoo ) Tj 0 0 0 rg (or to some section inside this document \(see ) Tj /F4 10 Tf 0 0 .501961 rg (Making a table) Tj /F1 10 Tf 0 0 0 rg (\) or another document.) Tj T* 0 Tw 0 0 .501961 rg (intecambiosvirtuales) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 118.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (This file) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 78.23937 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 4 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 66.23937 cm
+Q
+q
+1 0 0 1 40.01575 66.23937 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+59 0 obj
+<< /Length 1260 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (genindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 769.0394 cm
+Q
+q
+1 0 0 1 40.01575 757.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (modindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 751.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 40.01575 739.0394 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SISTEMA DE EVALUACI\323N DOCENTE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+60 0 obj
+<< /Nums [ 0
+ 61 0 R
+ 1
+ 62 0 R
+ 2
+ 63 0 R
+ 3
+ 64 0 R
+ 4
+ 65 0 R
+ 5
+ 66 0 R ] >>
+endobj
+61 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+62 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+63 0 obj
+<< /S /r
+ /St 1 >>
+endobj
+64 0 obj
+<< /S /r
+ /St 2 >>
+endobj
+65 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+66 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 67
+0000000000 65535 f
+0000000075 00000 n
+0000000160 00000 n
+0000000278 00000 n
+0000000401 00000 n
+0000000634 00000 n
+0000000867 00000 n
+0000001066 00000 n
+0000001265 00000 n
+0000001464 00000 n
+0000001663 00000 n
+0000001863 00000 n
+0000002063 00000 n
+0000002263 00000 n
+0000002463 00000 n
+0000002663 00000 n
+0000002863 00000 n
+0000003063 00000 n
+0000003263 00000 n
+0000003463 00000 n
+0000003663 00000 n
+0000003863 00000 n
+0000004063 00000 n
+0000004263 00000 n
+0000004463 00000 n
+0000004663 00000 n
+0000004863 00000 n
+0000005063 00000 n
+0000005263 00000 n
+0000005703 00000 n
+0000005937 00000 n
+0000006068 00000 n
+0000006195 00000 n
+0000006312 00000 n
+0000006512 00000 n
+0000006706 00000 n
+0000006906 00000 n
+0000007120 00000 n
+0000007402 00000 n
+0000007636 00000 n
+0000007753 00000 n
+0000007972 00000 n
+0000008056 00000 n
+0000008249 00000 n
+0000008414 00000 n
+0000008539 00000 n
+0000008688 00000 n
+0000008877 00000 n
+0000009009 00000 n
+0000009145 00000 n
+0000009293 00000 n
+0000009439 00000 n
+0000009567 00000 n
+0000009704 00000 n
+0000009815 00000 n
+0000010802 00000 n
+0000010937 00000 n
+0000014100 00000 n
+0000014235 00000 n
+0000022370 00000 n
+0000023687 00000 n
+0000023798 00000 n
+0000023837 00000 n
+0000023876 00000 n
+0000023915 00000 n
+0000023954 00000 n
+0000023993 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
+
+ /Info 40 0 R
+ /Root 39 0 R
+ /Size 67 >>
+startxref
+24032
+%%EOF

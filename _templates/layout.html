@@ -1,0 +1,23 @@
+{% extends "!layout.html" %}
+
+
+{% block rootrellink %}
+        <li><a href="{{ pathto('index') }}">Inicio&nbsp;</a>|&nbsp;</li>
+        <li><a href="{{ pathto('search') }}">Buscar&nbsp;</a>|&nbsp;</li>
+       <li><a href="{{ pathto('contents') }}">Contenidos&nbsp;</a>&raquo;</li>
+
+       <li><a href="{{ pathto('genindex') }}">Inicio&nbsp;</a>&nbsp;</li>
+{% endblock %}
+
+
+{% block relbar1 %}
+
+<div style="background-color: #359B35; text-align: left; padding: 10px 10px 15px 15px">
+<a href="{{ pathto('index') }}"><img src="{{
+pathto("_static/logo.png", 1) }}" border="0" alt="unl"/></a>
+</div>
+{{ super() }}
+{% endblock %}
+
+{% block sidebar1 %}{{ sidebar() }}{% endblock %}
+{% block sidebar2 %}{{ sidebar() }}{% endblock %}
