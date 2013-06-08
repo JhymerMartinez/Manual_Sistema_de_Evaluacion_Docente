@@ -1,0 +1,294 @@
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>3. El Modelo &mdash; SISTEMA DE EVALUACION DOCENTE 1.0 documentation</title>
+    
+    <link rel="stylesheet" href="../../_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.1/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
+    <link rel="stylesheet" href="../../_static/bootstrap-2.3.1/css/bootstrap-responsive.min.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../../',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../_static/doctools.js"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="../../_static/js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="../../_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="../../_static/bootstrap-2.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../../_static/bootstrap-sphinx.js"></script>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="top" title="SISTEMA DE EVALUACION DOCENTE 1.0 documentation" href="../../index.html" />
+    <link rel="next" title="4. Las plantillas" href="../Templates/templates.html" />
+    <link rel="prev" title="2. Herramientas a Utilizar" href="../tools.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body>
+
+<div style="background-color: #359B35; text-align: left; padding: 10px 10px 15px 15px">
+<a href="../../index.html"><img src="../../_static/logo.png" border="0" alt="unl"/></a>
+</div>
+
+
+
+  <div id="navbar" class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+
+        <a class="brand" href="../../index.html">SISTEMA DE EVALUACION DOCENTE</a>
+        <span class="navbar-text pull-left"><b>1.0</b></span>
+
+        <div class="nav-collapse">
+          <ul class="nav">
+            <li class="divider-vertical"></li>
+            
+              <li class="dropdown globaltoc-container">
+  <a href="../../index.html"
+     class="dropdown-toggle"
+     data-toggle="dropdown">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+    ><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../intro.html">1. Introducción</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tools.html">2. Herramientas a Utilizar</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">3. El Modelo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Templates/templates.html">4. Las plantillas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Views/views.html">5. La vistas</a></li>
+</ul>
+</ul>
+</li>
+              <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"><ul>
+<li><a class="reference internal" href="#">3. El Modelo</a><ul>
+<li><a class="reference internal" href="#clase-configuracion">3.1. Clase Configuracion</a></li>
+<li><a class="reference internal" href="#clase-ofertaacademicasga">3.2. Clase OfertaAcademicaSGA</a></li>
+<li><a class="reference internal" href="#clase-periodoacademico">3.3. Clase PeriodoAcademico</a></li>
+<li><a class="reference internal" href="#clase-asignatura">3.4. Clase Asignatura</a></li>
+<li><a class="reference internal" href="#clase-estudianteperiodoacademico">3.5. Clase EstudiantePeriodoAcademico</a></li>
+<li><a class="reference internal" href="#clase-asignaturadocente">3.6. Clase AsignaturaDocente</a></li>
+<li><a class="reference internal" href="#clase-docenteperiodoacademico">3.7. Clase DocentePeriodoAcademico</a></li>
+<li><a class="reference internal" href="#clase-direccioncarrera">3.8. Clase DireccionCarrera</a></li>
+<li><a class="reference internal" href="#clase-tipoinformante">3.9. Clase TipoInformante</a></li>
+<li><a class="reference internal" href="#clase-cuestionario">3.10. Clase Cuestionario</a></li>
+<li><a class="reference internal" href="#clase-contestacion">3.11. Clase Contestacion</a></li>
+<li><a class="reference internal" href="#clase-evaluacion">3.12. Clase Evaluacion</a></li>
+<li><a class="reference internal" href="#clase-resultados">3.13. Clase Resultados</a></li>
+<li><a class="reference internal" href="#clase-tipopregunta">3.14. Clase TipoPregunta</a></li>
+<li><a class="reference internal" href="#clase-seleccionunica">3.15. Clase SeleccionUnica</a></li>
+<li><a class="reference internal" href="#clase-ensayo">3.16. Clase Ensayo</a></li>
+<li><a class="reference internal" href="#clase-seccion">3.17. Clase Seccion</a></li>
+<li><a class="reference internal" href="#clase-pregunta">3.18. Clase Pregunta</a></li>
+<li><a class="reference internal" href="#clase-itempregunta">3.19. Clase ItemPregunta</a></li>
+<li><a class="reference internal" href="#clase-areasga">3.20. Clase AreaSGA</a></li>
+<li><a class="reference internal" href="#clase-periodoevaluacion">3.21. Clase PeriodoEvaluacion</a></li>
+<li><a class="reference internal" href="#class-tabulacion">3.22. Class Tabulacion</a></li>
+<li><a class="reference internal" href="#class-tabulacionevaluacion2013">3.23. Class TabulacionEvaluacion2013</a></li>
+<li><a class="reference internal" href="#class-tabulacionadicionales2012">3.24. Class TabulacionAdicionales2012</a></li>
+<li><a class="reference internal" href="#class-tabulacionsatisfaccion2012">3.25. Class TabulacionSatisfaccion2012</a></li>
+<li><a class="reference internal" href="#class-usuario">3.26. Class Usuario</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+            
+            
+              
+  <li><a href="../tools.html"
+         title="previous chapter">&laquo; 2. Herramientas a Utilizar</a></li>
+  <li><a href="../Templates/templates.html"
+         title="next chapter">4. Las plantillas &raquo;</a></li>
+            
+            
+              <li>
+  <a href="../../_sources/library/Models/models.txt"
+     rel="nofollow">Source</a></li>
+            
+          </ul>
+
+          
+            
+<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="../../search.html" method="get">
+  <input type="text" name="q" placeholder="Search" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+<div class="container">
+  
+  <div class="section" id="el-modelo">
+<span id="models-title"></span><h1>3. El Modelo<a class="headerlink" href="#el-modelo" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="clase-configuracion">
+<span id="class-configuracion"></span><h2>3.1. Clase Configuracion<a class="headerlink" href="#clase-configuracion" title="Permalink to this headline">¶</a></h2>
+<p>Encargada de las configuraciones generales de la aplicacion.</p>
+<p><strong>Atributos</strong>:</p>
+<div class="highlight-python"><pre>**periodoAcademicoActual:** Almacena el periodo academico en curso.
+**periodoEvaluacionActual:** Almacena el periodo de evaluacion en curso.</pre>
+</div>
+<p><strong>Descripción</strong>::
+Se hace uso de la clase Models que se encuentra en django.db.models para construir un nuevo modelo:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="kn">from</span> <span class="nn">django.db</span> <span class="kn">import</span> <span class="n">models</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Para mas información consultar los <a class="reference external" href="https://docs.djangoproject.com/en/dev/topics/db/models/">Modelos</a> en Django</p>
+</div>
+<p>Se define la clase <tt class="docutils literal"><span class="pre">Configuracion</span></tt> con sus atributos:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="k">class</span> <span class="nc">Configuracion</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
+    <span class="n">periodoAcademicoActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
+                    <span class="s">&#39;PeriodoAcademico&#39;</span><span class="p">,</span>
+                     <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Académico Actual&#39;</span>
+                     <span class="p">)</span>
+    <span class="n">periodoEvaluacionActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
+                    <span class="s">&#39;PeriodoEvaluacion&#39;</span><span class="p">,</span>
+                    <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Evaluación Actual&#39;</span>
+                     <span class="p">)</span>
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">getPeriodoAcademicoActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoAcademicoActual</span>
+
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">getPeriodoEvaluacionActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoEvaluacionActual</span>
+
+    <span class="k">class</span> <span class="nc">Meta</span><span class="p">:</span>
+        <span class="n">verbose_name</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
+        <span class="n">verbose_name_plural</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
+
+    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="s">u&quot;Configuraciones de la Aplicación&quot;</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="clase-ofertaacademicasga">
+<span id="class-ofertaacademicasga"></span><h2>3.2. Clase OfertaAcademicaSGA<a class="headerlink" href="#clase-ofertaacademicasga" title="Permalink to this headline">¶</a></h2>
+<p>palabra <a class="reference external" href="http://www.python.org/">Python</a></p>
+<p>palabra  esta frase reeplaza</p>
+<div class="admonition note">
+<p class="first admonition-title">Note</p>
+<p class="last">Nota: una nota cualquiera</p>
+</div>
+</div>
+<div class="section" id="clase-periodoacademico">
+<span id="class-periodoacademico"></span><h2>3.3. Clase PeriodoAcademico<a class="headerlink" href="#clase-periodoacademico" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-asignatura">
+<span id="class-asignatura"></span><h2>3.4. Clase Asignatura<a class="headerlink" href="#clase-asignatura" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-estudianteperiodoacademico">
+<span id="class-estudianteperiodoacademico"></span><h2>3.5. Clase EstudiantePeriodoAcademico<a class="headerlink" href="#clase-estudianteperiodoacademico" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-asignaturadocente">
+<span id="class-asignaturadocente"></span><h2>3.6. Clase AsignaturaDocente<a class="headerlink" href="#clase-asignaturadocente" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-docenteperiodoacademico">
+<span id="class-docenteperiodoacademico"></span><h2>3.7. Clase DocentePeriodoAcademico<a class="headerlink" href="#clase-docenteperiodoacademico" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-direccioncarrera">
+<span id="class-direccioncarrera"></span><h2>3.8. Clase DireccionCarrera<a class="headerlink" href="#clase-direccioncarrera" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-tipoinformante">
+<span id="class-tipoinformante"></span><h2>3.9. Clase TipoInformante<a class="headerlink" href="#clase-tipoinformante" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-cuestionario">
+<span id="class-cuestionario"></span><h2>3.10. Clase Cuestionario<a class="headerlink" href="#clase-cuestionario" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-contestacion">
+<span id="class-contestacion"></span><h2>3.11. Clase Contestacion<a class="headerlink" href="#clase-contestacion" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-evaluacion">
+<span id="class-evaluacion"></span><h2>3.12. Clase Evaluacion<a class="headerlink" href="#clase-evaluacion" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-resultados">
+<span id="class-resultados"></span><h2>3.13. Clase Resultados<a class="headerlink" href="#clase-resultados" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-tipopregunta">
+<span id="class-tipopregunta"></span><h2>3.14. Clase TipoPregunta<a class="headerlink" href="#clase-tipopregunta" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-seleccionunica">
+<span id="class-seleccionunica"></span><h2>3.15. Clase SeleccionUnica<a class="headerlink" href="#clase-seleccionunica" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-ensayo">
+<span id="class-ensayo"></span><h2>3.16. Clase Ensayo<a class="headerlink" href="#clase-ensayo" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-seccion">
+<span id="class-seccion"></span><h2>3.17. Clase Seccion<a class="headerlink" href="#clase-seccion" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-pregunta">
+<span id="class-pregunta"></span><h2>3.18. Clase Pregunta<a class="headerlink" href="#clase-pregunta" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-itempregunta">
+<span id="class-itempregunta"></span><h2>3.19. Clase ItemPregunta<a class="headerlink" href="#clase-itempregunta" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-areasga">
+<span id="class-areasga"></span><h2>3.20. Clase AreaSGA<a class="headerlink" href="#clase-areasga" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="clase-periodoevaluacion">
+<span id="class-periodoevaluacion"></span><h2>3.21. Clase PeriodoEvaluacion<a class="headerlink" href="#clase-periodoevaluacion" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="class-tabulacion">
+<span id="id1"></span><h2>3.22. Class Tabulacion<a class="headerlink" href="#class-tabulacion" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="class-tabulacionevaluacion2013">
+<span id="id2"></span><h2>3.23. Class TabulacionEvaluacion2013<a class="headerlink" href="#class-tabulacionevaluacion2013" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="class-tabulacionadicionales2012">
+<span id="id3"></span><h2>3.24. Class TabulacionAdicionales2012<a class="headerlink" href="#class-tabulacionadicionales2012" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="class-tabulacionsatisfaccion2012">
+<span id="id4"></span><h2>3.25. Class TabulacionSatisfaccion2012<a class="headerlink" href="#class-tabulacionsatisfaccion2012" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="class-usuario">
+<span id="id5"></span><h2>3.26. Class Usuario<a class="headerlink" href="#class-usuario" title="Permalink to this headline">¶</a></h2>
+</div>
+</div>
+
+
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2013, Jhymer Martínez.<br/>
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+</html>

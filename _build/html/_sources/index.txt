@@ -15,6 +15,10 @@ Bienvenidos a la guia de referencia del Sistema de Evaluación Docente de la `Un
    :numbered:
 
    /library/intro.rst
+   /library/tools.rst
+   /library/Models/models.rst
+   /library/Templates/templates.rst
+   /library/Views/views.rst
 
 
 

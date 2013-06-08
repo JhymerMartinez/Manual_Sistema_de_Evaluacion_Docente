@@ -1,9 +1,10 @@
-# -*- coding: utf-8 -*-
+#-*- coding: utf-8 -*-
 #
 # Manual_Sistema_de_Evaluacion_Docente documentation build configuration file, created by
 # sphinx-quickstart on Fri Mar 22 16:41:16 2013.
 
 import sys, os
+import sphinx_bootstrap_theme
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -33,7 +34,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Sistema_de_Evaluacion_Docente'
+project = u'SISTEMA DE EVALUACION DOCENTE'
 copyright = u'2013, Jhymer Martínez'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -84,7 +85,8 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'default'
+html_theme = 'bootstrap'
+html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
