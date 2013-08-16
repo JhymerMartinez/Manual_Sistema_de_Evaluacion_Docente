@@ -1,0 +1,22 @@
+.. _primary-index-templates:
+
+
+*************
+Index template
+*************
+
+.. _contents-list-templates
+**Contenidos:**
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   /library/Templates/intro.rst
+   
+
+
+
+
+
+
