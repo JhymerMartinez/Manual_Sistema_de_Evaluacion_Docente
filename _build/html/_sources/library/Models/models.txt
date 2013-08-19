@@ -785,17 +785,7 @@ Code::
         class Meta:
             ordering=['id']
 
-<<<<<<< HEAD
 
-=======
-un tema nuevo
--------------
-“un parrafo ideal“
-
-
-subsubseccion
-^^^^^^^^^^^^^
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 
 .. _class-PeriodoEvaluacion:
 

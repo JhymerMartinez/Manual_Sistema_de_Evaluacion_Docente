@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 <!DOCTYPE html>
 
 
@@ -13,15 +9,9 @@
     
     <link rel="stylesheet" href="../../_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-<<<<<<< HEAD
     <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
     <link rel="stylesheet" href="../../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
-=======
-    <link rel="stylesheet" href="../../_static/bootstrap-2.3.1/css/bootstrap.min.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/bootstrap-sphinx.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/bootstrap-2.3.1/css/bootstrap-responsive.min.css" type="text/css" />
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -38,11 +28,7 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="../../_static/js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="../../_static/js/jquery-fix.js"></script>
-<<<<<<< HEAD
     <script type="text/javascript" src="../../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
-=======
-    <script type="text/javascript" src="../../_static/bootstrap-2.3.1/js/bootstrap.min.js"></script>
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
     <script type="text/javascript" src="../../_static/bootstrap-sphinx.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="top" title="SED UNL  documentation" href="../../index.html" />
@@ -79,10 +65,7 @@
           <ul class="nav">
             <li class="divider-vertical"></li>
             
-<<<<<<< HEAD
             
-=======
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
               <li class="dropdown globaltoc-container">
   <a href="../../index.html"
      class="dropdown-toggle"
@@ -121,17 +104,7 @@
 <li><a class="reference internal" href="#clase-seccion">3.18. Clase Seccion</a></li>
 <li><a class="reference internal" href="#clase-pregunta">3.19. Clase Pregunta</a></li>
 <li><a class="reference internal" href="#clase-itempregunta">3.20. Clase ItemPregunta</a></li>
-<<<<<<< HEAD
 <li><a class="reference internal" href="#clase-areasga">3.21. Clase AreaSGA</a></li>
-=======
-<li><a class="reference internal" href="#clase-areasga">3.21. Clase AreaSGA</a><ul>
-<li><a class="reference internal" href="#un-tema-nuevo">3.21.1. un tema nuevo</a><ul>
-<li><a class="reference internal" href="#subsubseccion">3.21.1.1. subsubseccion</a></li>
-</ul>
-</li>
-</ul>
-</li>
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 <li><a class="reference internal" href="#clase-periodoevaluacion">3.22. Clase PeriodoEvaluacion</a></li>
 <li><a class="reference internal" href="#clase-tabulacion">3.23. Clase Tabulacion</a></li>
 <li><a class="reference internal" href="#clase-tabulacionevaluacion2013">3.24. Clase TabulacionEvaluacion2013</a></li>
@@ -147,15 +120,9 @@
             
               
   <li><a href="../tools.html"
-<<<<<<< HEAD
          title="Previous Chapter: 2. Herramientas a Utilizar">&laquo; 2. Herramientas ...</a></li>
   <li><a href="../Templates/templates.html"
          title="Next Chapter: 4. Las plantillas">4. Las plantilla... &raquo;</a></li>
-=======
-         title="previous chapter">&laquo; 2. Herramientas a Utilizar</a></li>
-  <li><a href="../Templates/templates.html"
-         title="next chapter">4. Las plantillas &raquo;</a></li>
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
             
             
               <li>
@@ -166,13 +133,8 @@
 
           
             
-<<<<<<< HEAD
 <form class="navbar-search pull-right" action="../../search.html" method="get">
   <input type="text" name="q" class="search-query" placeholder="Search" />
-=======
-<form class="navbar-search pull-right" style="margin-bottom:-3px;" action="../../search.html" method="get">
-  <input type="text" name="q" placeholder="Search" />
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
   <input type="hidden" name="check_keywords" value="yes" />
   <input type="hidden" name="area" value="default" />
 </form>
@@ -198,35 +160,46 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
 <p class="first admonition-title">Note</p>
 <p class="last">Para mas información consultar los <a class="reference external" href="https://docs.djangoproject.com/en/dev/topics/db/models/">Modelos</a> en Django</p>
 </div>
-<p>Se define la clase <tt class="docutils literal"><span class="pre">Configuracion</span></tt> con sus atributos:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="k">class</span> <span class="nc">Configuracion</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
-    <span class="n">periodoAcademicoActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
-                    <span class="s">&#39;PeriodoAcademico&#39;</span><span class="p">,</span>
-                     <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
-                     <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
-                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Académico Actual&#39;</span>
-                     <span class="p">)</span>
-    <span class="n">periodoEvaluacionActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
-                    <span class="s">&#39;PeriodoEvaluacion&#39;</span><span class="p">,</span>
-                    <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
-                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Evaluación Actual&#39;</span>
-                     <span class="p">)</span>
-    <span class="nd">@classmethod</span>
-    <span class="k">def</span> <span class="nf">getPeriodoAcademicoActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoAcademicoActual</span>
-
-    <span class="nd">@classmethod</span>
-    <span class="k">def</span> <span class="nf">getPeriodoEvaluacionActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoEvaluacionActual</span>
-
-    <span class="k">class</span> <span class="nc">Meta</span><span class="p">:</span>
-        <span class="n">verbose_name</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
-        <span class="n">verbose_name_plural</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
-
-    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="s">u&quot;Configuraciones de la Aplicación&quot;</span>
-</pre></div>
-</div>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+<blockquote>
+<div><dl class="docutils">
+<dt>class Configuracion(models.Model):</dt>
+<dd><dl class="first docutils">
+<dt>periodoAcademicoActual = models.OneToOneField(</dt>
+<dd><dl class="first last docutils">
+<dt>&#8216;PeriodoAcademico&#8217;,</dt>
+<dd>null=True,
+blank=True,
+verbose_name=&#8217;Periodo Académico Actual&#8217;
+)</dd>
+</dl>
+</dd>
+<dt>periodoEvaluacionActual = models.OneToOneField(</dt>
+<dd><p class="first">&#8216;PeriodoEvaluacion&#8217;,
+null=True, blank=True,</p>
+<blockquote class="last">
+<div>verbose_name=&#8217;Periodo Evaluación Actual&#8217;
+)</div></blockquote>
+</dd>
+</dl>
+<p>&#64;classmethod
+def getPeriodoAcademicoActual(self):</p>
+<blockquote>
+<div>return Configuracion.objects.get(id=1).periodoAcademicoActual</div></blockquote>
+<p>&#64;classmethod
+def getPeriodoEvaluacionActual(self):</p>
+<blockquote>
+<div>return Configuracion.objects.get(id=1).periodoEvaluacionActual</div></blockquote>
+<dl class="last docutils">
+<dt>class Meta:</dt>
+<dd>verbose_name = u&#8217;Configuraciones&#8217;
+verbose_name_plural = u&#8217;Configuraciones&#8217;</dd>
+<dt>def __unicode__(self):</dt>
+<dd>return u&#8221;Configuraciones de la Aplicación&#8221;</dd>
+</dl>
+</dd>
+</dl>
+</div></blockquote>
 </div>
 <div class="section" id="clase-ofertaacademicasga">
 <span id="class-ofertaacademicasga"></span><h2>3.2. Clase OfertaAcademicaSGA<a class="headerlink" href="#clase-ofertaacademicasga" title="Permalink to this headline">¶</a></h2>
@@ -900,16 +873,6 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
         <span class="n">ordering</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;id&#39;</span><span class="p">]</span>
 </pre></div>
 </div>
-<<<<<<< HEAD
-=======
-<div class="section" id="un-tema-nuevo">
-<h3>3.21.1. un tema nuevo<a class="headerlink" href="#un-tema-nuevo" title="Permalink to this headline">¶</a></h3>
-<p>“un parrafo ideal“</p>
-<div class="section" id="subsubseccion">
-<h4>3.21.1.1. subsubseccion<a class="headerlink" href="#subsubseccion" title="Permalink to this headline">¶</a></h4>
-</div>
-</div>
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 </div>
 <div class="section" id="clase-periodoevaluacion">
 <span id="class-periodoevaluacion"></span><h2>3.22. Clase PeriodoEvaluacion<a class="headerlink" href="#clase-periodoevaluacion" title="Permalink to this headline">¶</a></h2>
@@ -2101,11 +2064,7 @@ palabra  <a href="#id3"><span class="problematic" id="id4">|enlace|</span></a></
     </p>
     <p>
         &copy; Copyright 2013, Jhymer Martínez.<br/>
-<<<<<<< HEAD
       Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.2b1.<br/>
-=======
-      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.<br/>
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
     </p>
   </div>
 </footer>
