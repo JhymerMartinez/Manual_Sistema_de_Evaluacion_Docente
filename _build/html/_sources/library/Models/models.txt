@@ -19,7 +19,6 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
 .. note::
     Para mas información consultar los Modelos_ en Django    
 
-<<<<<<< HEAD
     
 
 =======

@@ -4,7 +4,7 @@
 Las plantillas
 **************
 
-<<<<<<< HEAD
+
 .. _template-intro:
 
 Introducción
@@ -141,7 +141,7 @@ Plantillas para usuarios y tareas
 =================================
 =======
 
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
+
 
 
 
