@@ -19,8 +19,11 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
 .. note::
     Para mas información consultar los Modelos_ en Django    
 
+<<<<<<< HEAD
     
 
+=======
+>>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 Se define la clase ``Configuracion`` con sus atributos::   
 
     class Configuracion(models.Model):

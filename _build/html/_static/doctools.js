@@ -4,7 +4,11 @@
  *
  * Sphinx JavaScript utilities for all documentation.
  *
+<<<<<<< HEAD
  * :copyright: Copyright 2007-2013 by the Sphinx team, see AUTHORS.
+=======
+ * :copyright: Copyright 2007-2011 by the Sphinx team, see AUTHORS.
+>>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
  * :license: BSD, see LICENSE for details.
  *
  */
@@ -32,7 +36,11 @@ if (!window.console || !console.firebug) {
  */
 jQuery.urldecode = function(x) {
   return decodeURIComponent(x).replace(/\+/g, ' ');
+<<<<<<< HEAD
 };
+=======
+}
+>>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 
 /**
  * small helper function to urlencode strings
@@ -62,6 +70,21 @@ jQuery.getQueryParameters = function(s) {
 };
 
 /**
+<<<<<<< HEAD
+=======
+ * small function to check if an array contains
+ * a given item.
+ */
+jQuery.contains = function(arr, item) {
+  for (var i = 0; i < arr.length; i++) {
+    if (arr[i] == item)
+      return true;
+  }
+  return false;
+};
+
+/**
+>>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
  * highlight a given string on a jquery object by wrapping it in
  * span elements with the given class name.
  */
