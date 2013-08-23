@@ -158,47 +158,37 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
 </div>
 <div class="admonition note">
 <p class="first admonition-title">Note</p>
-<p class="last">Para mas información consultar los <a class="reference external" href="https://docs.djangoproject.com/en/dev/topics/db/models/">Modelos</a> en Django</p>
+<p class="last">Para mas información consultar los <a class="reference external" href="https://docs.djangoproject.com/en/dev/topics/db/model">Modelos</a> en Django</p>
 </div>
-<blockquote>
-<div><dl class="docutils">
-<dt>class Configuracion(models.Model):</dt>
-<dd><dl class="first docutils">
-<dt>periodoAcademicoActual = models.OneToOneField(</dt>
-<dd><dl class="first last docutils">
-<dt>&#8216;PeriodoAcademico&#8217;,</dt>
-<dd>null=True,
-blank=True,
-verbose_name=&#8217;Periodo Académico Actual&#8217;
-)</dd>
-</dl>
-</dd>
-<dt>periodoEvaluacionActual = models.OneToOneField(</dt>
-<dd><p class="first">&#8216;PeriodoEvaluacion&#8217;,
-null=True, blank=True,</p>
-<blockquote class="last">
-<div>verbose_name=&#8217;Periodo Evaluación Actual&#8217;
-)</div></blockquote>
-</dd>
-</dl>
-<p>&#64;classmethod
-def getPeriodoAcademicoActual(self):</p>
-<blockquote>
-<div>return Configuracion.objects.get(id=1).periodoAcademicoActual</div></blockquote>
-<p>&#64;classmethod
-def getPeriodoEvaluacionActual(self):</p>
-<blockquote>
-<div>return Configuracion.objects.get(id=1).periodoEvaluacionActual</div></blockquote>
-<dl class="last docutils">
-<dt>class Meta:</dt>
-<dd>verbose_name = u&#8217;Configuraciones&#8217;
-verbose_name_plural = u&#8217;Configuraciones&#8217;</dd>
-<dt>def __unicode__(self):</dt>
-<dd>return u&#8221;Configuraciones de la Aplicación&#8221;</dd>
-</dl>
-</dd>
-</dl>
-</div></blockquote>
+<p>Se define la clase <tt class="docutils literal"><span class="pre">Configuracion</span></tt> con sus atributos:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="k">class</span> <span class="nc">Configuracion</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
+    <span class="n">periodoAcademicoActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
+                    <span class="s">&#39;PeriodoAcademico&#39;</span><span class="p">,</span>
+                     <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Académico Actual&#39;</span>
+                     <span class="p">)</span>
+    <span class="n">periodoEvaluacionActual</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">OneToOneField</span><span class="p">(</span>
+                    <span class="s">&#39;PeriodoEvaluacion&#39;</span><span class="p">,</span>
+                    <span class="n">null</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">blank</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span>
+                     <span class="n">verbose_name</span><span class="o">=</span><span class="s">&#39;Periodo Evaluación Actual&#39;</span>
+                     <span class="p">)</span>
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">getPeriodoAcademicoActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoAcademicoActual</span>
+
+    <span class="nd">@classmethod</span>
+    <span class="k">def</span> <span class="nf">getPeriodoEvaluacionActual</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="n">Configuracion</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span><span class="o">.</span><span class="n">periodoEvaluacionActual</span>
+
+    <span class="k">class</span> <span class="nc">Meta</span><span class="p">:</span>
+        <span class="n">verbose_name</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
+        <span class="n">verbose_name_plural</span> <span class="o">=</span> <span class="s">u&#39;Configuraciones&#39;</span>
+
+    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="k">return</span> <span class="s">u&quot;Configuraciones de la Aplicación&quot;</span>
+</pre></div>
+</div>
 </div>
 <div class="section" id="clase-ofertaacademicasga">
 <span id="class-ofertaacademicasga"></span><h2>3.2. Clase OfertaAcademicaSGA<a class="headerlink" href="#clase-ofertaacademicasga" title="Permalink to this headline">¶</a></h2>
@@ -2041,14 +2031,6 @@ verbose_name_plural = u&#8217;Configuraciones&#8217;</dd>
     <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
         <span class="k">return</span> <span class="s">u&#39;{0} {1}&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">cedula</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_full_name</span><span class="p">());</span>
 </pre></div>
-</div>
-<div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p class="last">Nota: una nota cualquiera
-.. <a href="#id1"><span class="problematic" id="id2">|enlace|</span></a> replace:: esta frase reeplaza
-.. _Python: <a class="reference external" href="http://www.python.org/">http://www.python.org/</a>
-palabra <a href="#id5"><span class="problematic" id="id6">Python_</span></a>
-palabra  <a href="#id3"><span class="problematic" id="id4">|enlace|</span></a></p>
 </div>
 </div>
 </div>

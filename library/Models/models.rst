@@ -19,10 +19,7 @@ Se hace uso de la clase Models que se encuentra en django.db.models para constru
 .. note::
     Para mas información consultar los Modelos_ en Django    
 
-    
 
-=======
->>>>>>> a1262be8a806de79578080345dc566d4e4eb5093
 Se define la clase ``Configuracion`` con sus atributos::   
 
     class Configuracion(models.Model):
@@ -1981,16 +1978,8 @@ Code::
 
 .. _enlaces-modelos:
 
-.. _Modelos: https://docs.djangoproject.com/en/dev/topics/db/models/
+.. _Modelos: https://docs.djangoproject.com/en/dev/topics/db/model
 
-
-
-.. note::
-    Nota: una nota cualquiera
-    .. |enlace| replace:: esta frase reeplaza
-    .. _Python: http://www.python.org/
-    palabra Python_
-    palabra  |enlace|
 
 
 

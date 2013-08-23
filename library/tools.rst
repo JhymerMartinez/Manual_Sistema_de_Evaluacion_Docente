@@ -32,13 +32,7 @@ html5lib 					0.95
  **Sistema Operativo:** `Debian squeeze backports <http://>`_ 
 
 .. _sw-optional:
-Opcionales
------------
 
-sede :ref:`class-Configuracion` dedede
 
-:ref:`templates-title`
 
 .. _hw-requirements:
-Requerimientos de Hardware
-==========================
