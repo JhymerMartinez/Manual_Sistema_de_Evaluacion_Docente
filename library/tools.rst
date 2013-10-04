@@ -5,13 +5,14 @@ Herramientas a Utilizar
 ***********************
 El :ref:`primary-index` fue desarrollado haciendo uso de las herramientas descritas a continuación:
 
-.. _sw-requirements:
+.. _library-sw-requirements:
+
 Requerimientos de Software
 ==========================
 
 A continuación se presenta un listado con el software utilizado para la elaboración del sistema:
 
-========================  ========  
+========================  ========
 Nombre					  Versión	  
 ========================  ========  
 python-django 		 		1.3
@@ -29,10 +30,10 @@ html5lib 					0.95
 ========================  ========  
 
 
- **Sistema Operativo:** `Debian squeeze backports <http://>`_ 
+ **Sistema Operativo:** `Debian squeeze backports <http://>`_
 
-.. _sw-optional:
+.. _library-sw-optional:
 
 
 
-.. _hw-requirements:
+.. _library-hw-requirements:

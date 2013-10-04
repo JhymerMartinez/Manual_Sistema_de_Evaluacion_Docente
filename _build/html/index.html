@@ -1,3 +1,12 @@
+
+  
+  
+ 
+  
+  
+ 
+
+
 <!DOCTYPE html>
 
 
@@ -9,9 +18,9 @@
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-3.0.0/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-3.0.0/css/bootstrap-theme.min.css" type="text/css" />
     <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
-    <link rel="stylesheet" href="_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -28,7 +37,7 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
-    <script type="text/javascript" src="_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.0.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="top" title="SED UNL  documentation" href="#" />
@@ -40,47 +49,51 @@
 
   </head>
   <body>
-
-<div style="background-color: #359B35; text-align: left; padding: 10px 10px 15px 15px">
-<a href="#"><img src="_static/logo.png" border="0" alt="unl"/></a>
+<link rel="stylesheet" href="_static/style.css">
+<div id="cabecera">
+  <a href="http://www.unl.edu.ec/"><img src="_static/unl.gif" id="logo" border="0" alt="unl" width="90" hight="110"/></a>
 </div>
 
 
-
-  <div id="navbar" class="navbar navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container">
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+        <a class="navbar-brand" href="#">SED UNL</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
 
-        <a class="brand" href="#">SED UNL</a>
-        <span class="navbar-text pull-left"><b></b></span>
-
-        <div class="nav-collapse">
-          <ul class="nav">
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
             <li class="divider-vertical"></li>
             
             
               <li class="dropdown globaltoc-container">
   <a href="#"
      class="dropdown-toggle"
-     data-toggle="dropdown">Site <b class="caret"></b></a>
+     data-toggle="dropdown">Indice General<b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"
     ><ul>
 <li class="toctree-l1"><a class="reference internal" href="library/intro.html">1. Introducción</a></li>
 <li class="toctree-l1"><a class="reference internal" href="library/tools.html">2. Herramientas a Utilizar</a></li>
-<li class="toctree-l1"><a class="reference internal" href="library/Models/models.html">3. El Modelo</a></li>
-<li class="toctree-l1"><a class="reference internal" href="library/Templates/templates.html">4. Las plantillas</a></li>
-<li class="toctree-l1"><a class="reference internal" href="library/Views/views.html">5. La vistas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Settings/settings.html">3. Configuraciones Generales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Models/models.html">4. Los Modelos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Templates/templates.html">5. Las plantillas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Views/views.html">6. Las vistas y controladores</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Urls/urls.html">7. Mapeo de URLs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Forms/forms.html">8. Los Formularios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Admin/admin.html">9. Manejo de Administración</a></li>
 </ul>
 </ul>
 </li>
-              <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+              
+                <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">En esta Página<b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
 <li><a class="reference internal" href="#">SISTEMA DE EVALUACIÓN DOCENTE</a><ul>
 </ul>
@@ -88,34 +101,42 @@
 </ul>
 </ul>
 </li>
+              
             
             
               
+                
   <li><a href="library/intro.html"
          title="Next Chapter: 1. Introducción">1. Introducción &raquo;</a></li>
+              
+            
+            
             
             
               <li>
   <a href="_sources/index.txt"
-     rel="nofollow">Source</a></li>
+     rel="nofollow">Ver código</a></li>
             
           </ul>
 
           
             
-<form class="navbar-search pull-right" action="search.html" method="get">
-  <input type="text" name="q" class="search-query" placeholder="Search" />
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Buscar" />
+ </div>
   <input type="hidden" name="check_keywords" value="yes" />
   <input type="hidden" name="area" value="default" />
 </form>
           
         </div>
-      </div>
     </div>
   </div>
 
 <div class="container">
-  
+  <div class="row">
+    <div class="col-md-12">
+      
   <div class="section" id="sistema-de-evaluacion-docente">
 <span id="primary-index"></span><h1>SISTEMA DE EVALUACIÓN DOCENTE<a class="headerlink" href="#sistema-de-evaluacion-docente" title="Permalink to this headline">¶</a></h1>
 <p>Bienvenidos a la guia de referencia del Sistema de Evaluación Docente de la <a class="reference external" href="http://www.unl.edu.ec">Universidad Nacional de Loja</a>.</p>
@@ -127,54 +148,123 @@
 <li class="toctree-l2"><a class="reference internal" href="library/tools.html#requerimientos-de-software">2.1. Requerimientos de Software</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="library/Models/models.html">3. El Modelo</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-configuracion">3.1. Clase Configuracion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-ofertaacademicasga">3.2. Clase OfertaAcademicaSGA</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-periodoacademico">3.3. Clase PeriodoAcademico</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-asignatura">3.4. Clase Asignatura</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-estudianteperiodoacademico">3.5. Clase EstudiantePeriodoAcademico</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-estudianteasignaturadocente">3.6. Clase EstudianteAsignaturaDocente</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-asignaturadocente">3.7. Clase AsignaturaDocente</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-docenteperiodoacademico">3.8. Clase DocentePeriodoAcademico</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-direccioncarrera">3.9. Clase DireccionCarrera</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tipoinformante">3.10. Clase TipoInformante</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-cuestionario">3.11. Clase Cuestionario</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-contestacion">3.12. Clase Contestacion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-evaluacion">3.13. Clase Evaluacion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-resultados">3.14. Clase Resultados</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tipopregunta">3.15. Clase TipoPregunta</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-seleccionunica">3.16. Clase SeleccionUnica</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-ensayo">3.17. Clase Ensayo</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-seccion">3.18. Clase Seccion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-pregunta">3.19. Clase Pregunta</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-itempregunta">3.20. Clase ItemPregunta</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-areasga">3.21. Clase AreaSGA</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-periodoevaluacion">3.22. Clase PeriodoEvaluacion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacion">3.23. Clase Tabulacion</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionevaluacion2013">3.24. Clase TabulacionEvaluacion2013</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionadicionales2012">3.25. Clase TabulacionAdicionales2012</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionsatisfaccion2012">3.26. Clase TabulacionSatisfaccion2012</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-usuario">3.27. Clase Usuario</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Settings/settings.html">3. Configuraciones Generales</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Settings/settings.html#introduccion">3.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Settings/settings.html#importaciones-necesarias">3.2. Importaciones Necesarias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Settings/settings.html#contenido-de-settings-py">3.3. Contenido de <strong>settings.py</strong></a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="library/Templates/templates.html">4. Las plantillas</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#introduccion">4.1. Introducción</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantilla-base">4.2. Plantilla Base</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantillas-para-administracion">4.3. Plantillas para Administración</a></li>
-<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantillas-para-usuarios-y-tareas">4.4. Plantillas para usuarios y tareas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Models/models.html">4. Los Modelos</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#introduccion">4.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#importaciones-necesarias">4.2. Importaciones Necesarias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-configuracion">4.3. Clase Configuracion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-ofertaacademicasga">4.4. Clase OfertaAcademicaSGA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-periodoacademico">4.5. Clase PeriodoAcademico</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-asignatura">4.6. Clase Asignatura</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-estudianteperiodoacademico">4.7. Clase EstudiantePeriodoAcademico</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-estudianteasignaturadocente">4.8. Clase EstudianteAsignaturaDocente</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-asignaturadocente">4.9. Clase AsignaturaDocente</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-docenteperiodoacademico">4.10. Clase DocentePeriodoAcademico</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-direccioncarrera">4.11. Clase DireccionCarrera</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tipoinformante">4.12. Clase TipoInformante</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-cuestionario">4.13. Clase Cuestionario</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-contestacion">4.14. Clase Contestacion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-evaluacion">4.15. Clase Evaluacion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-resultados">4.16. Clase Resultados</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tipopregunta">4.17. Clase TipoPregunta</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-seleccionunica">4.18. Clase SeleccionUnica</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-seccion">4.19. Clase Seccion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-pregunta">4.20. Clase Pregunta</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-itempregunta">4.21. Clase ItemPregunta</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-areasga">4.22. Clase AreaSGA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-periodoevaluacion">4.23. Clase PeriodoEvaluacion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacion">4.24. Clase Tabulacion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionevaluacion2013">4.25. Clase TabulacionEvaluacion2013</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionadicionales2012">4.26. Clase TabulacionAdicionales2012</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-tabulacionsatisfaccion2012">4.27. Clase TabulacionSatisfaccion2012</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Models/models.html#clase-usuario">4.28. Clase Usuario</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="library/Views/views.html">5. La vistas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="library/Templates/templates.html">5. Las plantillas</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#introduccion">5.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantilla-base">5.2. Plantilla Base</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantillas-para-administracion">5.3. Plantillas para Administración</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Templates/templates.html#plantillas-para-usuarios-y-tareas">5.4. Plantillas para usuarios y tareas</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="library/Views/views.html">6. Las vistas y controladores</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#introduccion">6.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#importaciones-de-los-modulos-de-django">6.2. Importaciones de los modulos de Django</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#importaciones-de-las-demas-clases-del-sistema">6.3. Importaciones de las demás clases del Sistema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#portada">6.4. Portada</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#ingreso-al-sistema">6.5. Ingreso al Sistema</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#pagina-inicial">6.6. Página Inicial</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#evaluaciones-de-los-estudiantes">6.7. Evaluaciones de los Estudiantes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#evaluacion-de-pares-academicos-a-docentes">6.8. Evaluacion de Pares Académicos a Docentes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#evaluaciones-de-directores-a-docentes">6.9. Evaluaciones de Directores a Docentes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#listado-de-encuestas">6.10. Listado de Encuestas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#generacion-de-la-encuesta">6.11. Generación de la Encuesta</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#grabacion-de-la-encuesta">6.12. Grabación de la Encuesta</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#ofertas-sga">6.13. Ofertas SGA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#resumen-de-evaluaciones-en-modo-administrador">6.14. Resumen de Evaluaciones en modo Administrador</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Views/views.html#calculo-y-presentacion-de-resultados">6.15. Cálculo y Presentación de resultados</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="library/Urls/urls.html">7. Mapeo de URLs</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Urls/urls.html#introduccion">7.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Urls/urls.html#importaciones-necesarias">7.2. Importaciones Necesarias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Urls/urls.html#enrutamiento-principal">7.3. Enrutamiento Principal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Urls/urls.html#enrutamiento-handler">7.4. Enrutamiento Handler</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="library/Forms/forms.html">8. Los Formularios</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#introduccion">8.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#importaciones-necesarias">8.2. Importaciones Necesarias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#resultados-evaluacion-desempeno-docente-2012-2013">8.3. Resultados Evaluación Desempeño Docente  2012 - 2013</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#resultados-actividades-adicionales-a-la-docencia-2012">8.4. Resultados Actividades Adicionales a la Docencia 2012</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#resultados-encuesta-de-satisfaccion-estudiantil-2012">8.5. Resultados Encuesta de Satisfacción Estudiantil 2012</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#formulario-para-seleccion-de-parametros">8.6. Formulario para Selección de Parametros</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#formulario-estudianteasignaturadocente">8.7. Formulario EstudianteAsignaturaDocente</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Forms/forms.html#formulario-asignaturadocente">8.8. Formulario AsignaturaDocente</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="library/Admin/admin.html">9. Manejo de Administración</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#introduccion">9.1. Introducción</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#importaciones-necesarias">9.2. Importaciones Necesarias</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-preguntaadmin">9.3. Clase PreguntaAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-seccionadmin">9.4. Clase SeccionAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-cuestionarioadmin">9.5. Clase CuestionarioAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-periodoevaluacionadmin">9.6. Clase PeriodoEvaluacionAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-periodoacademicoadmin">9.7. Clase PeriodoAcademicoAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-estudianteperiodoacademicoadmin">9.8. Clase EstudiantePeriodoAcademicoAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-estudianteasignaturadocenteadmin">9.9. Clase EstudianteAsignaturaDocenteAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-asignaturadocenteadmin">9.10. Clase AsignaturaDocenteAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-docenteperiodoacademicoadmin">9.11. Clase DocentePeriodoAcademicoAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-direccioncarreraadmin">9.12. Clase DireccionCarreraAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-asignaturaadmin">9.13. Clase AsignaturaAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-usuarioadmin">9.14. Clase UsuarioAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-configuracionadmin">9.15. Clase ConfiguracionAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-evaluacionadmin">9.16. Clase EvaluacionAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-resultadosadmin">9.17. Clase ResultadosAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-tabulacionadmin">9.18. Clase TabulacionAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clase-tipoinformanteadmin">9.19. Clase TipoInformanteAdmin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#clases-y-ofertas-en-enlinea">9.20. Clases y Ofertas en EnLinea</a></li>
+<li class="toctree-l2"><a class="reference internal" href="library/Admin/admin.html#agregacion-de-clases-a-la-administracion">9.21. Agregación de Clases a la Administración</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </div>
 
 
+    </div>
+      
+  </div>
 </div>
 <footer class="footer">
   <div class="container">
     <p class="pull-right">
-      <a href="#">Back to top</a>
+      <a href="#">Regresar a la cabecera</a>
       
     </p>
     <p>

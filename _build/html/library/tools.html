@@ -1,3 +1,12 @@
+
+  
+  
+ 
+  
+  
+ 
+
+
 <!DOCTYPE html>
 
 
@@ -9,9 +18,9 @@
     
     <link rel="stylesheet" href="../_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/bootstrap-2.3.2/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootstrap-3.0.0/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/bootstrap-3.0.0/css/bootstrap-theme.min.css" type="text/css" />
     <link rel="stylesheet" href="../_static/bootstrap-sphinx.css" type="text/css" />
-    <link rel="stylesheet" href="../_static/bootstrap-2.3.2/css/bootstrap-responsive.min.css" type="text/css" />
     
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
@@ -28,11 +37,11 @@
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="../_static/js/jquery-1.9.1.min.js"></script>
     <script type="text/javascript" src="../_static/js/jquery-fix.js"></script>
-    <script type="text/javascript" src="../_static/bootstrap-2.3.2/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../_static/bootstrap-3.0.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../_static/bootstrap-sphinx.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="top" title="SED UNL  documentation" href="../index.html" />
-    <link rel="next" title="3. El Modelo" href="Models/models.html" />
+    <link rel="next" title="3. Configuraciones Generales" href="Settings/settings.html" />
     <link rel="prev" title="1. Introducción" href="intro.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -41,47 +50,51 @@
 
   </head>
   <body>
-
-<div style="background-color: #359B35; text-align: left; padding: 10px 10px 15px 15px">
-<a href="../index.html"><img src="../_static/logo.png" border="0" alt="unl"/></a>
+<link rel="stylesheet" href="../_static/style.css">
+<div id="cabecera">
+  <a href="http://www.unl.edu.ec/"><img src="../_static/unl.gif" id="logo" border="0" alt="unl" width="90" hight="110"/></a>
 </div>
 
 
-
-  <div id="navbar" class="navbar navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container">
+  <div id="navbar" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
-        <button class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
+        <a class="navbar-brand" href="../index.html">SED UNL</a>
+        <span class="navbar-text navbar-version pull-left"><b></b></span>
+      </div>
 
-        <a class="brand" href="../index.html">SED UNL</a>
-        <span class="navbar-text pull-left"><b></b></span>
-
-        <div class="nav-collapse">
-          <ul class="nav">
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
             <li class="divider-vertical"></li>
             
             
               <li class="dropdown globaltoc-container">
   <a href="../index.html"
      class="dropdown-toggle"
-     data-toggle="dropdown">Site <b class="caret"></b></a>
+     data-toggle="dropdown">Indice General<b class="caret"></b></a>
   <ul class="dropdown-menu globaltoc"
     ><ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="intro.html">1. Introducción</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">2. Herramientas a Utilizar</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Models/models.html">3. El Modelo</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Templates/templates.html">4. Las plantillas</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Views/views.html">5. La vistas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Settings/settings.html">3. Configuraciones Generales</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Models/models.html">4. Los Modelos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Templates/templates.html">5. Las plantillas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Views/views.html">6. Las vistas y controladores</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Urls/urls.html">7. Mapeo de URLs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Forms/forms.html">8. Los Formularios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Admin/admin.html">9. Manejo de Administración</a></li>
 </ul>
 </ul>
 </li>
-              <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Page <b class="caret"></b></a>
+              
+                <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">En esta Página<b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
 <li><a class="reference internal" href="#">2. Herramientas a Utilizar</a><ul>
 <li><a class="reference internal" href="#requerimientos-de-software">2.1. Requerimientos de Software</a></li>
@@ -90,41 +103,49 @@
 </ul>
 </ul>
 </li>
+              
             
             
               
+                
   <li><a href="intro.html"
          title="Previous Chapter: 1. Introducción">&laquo; 1. Introducción</a></li>
-  <li><a href="Models/models.html"
-         title="Next Chapter: 3. El Modelo">3. El Modelo &raquo;</a></li>
+  <li><a href="Settings/settings.html"
+         title="Next Chapter: 3. Configuraciones Generales">3. Configuracion... &raquo;</a></li>
+              
+            
+            
             
             
               <li>
   <a href="../_sources/library/tools.txt"
-     rel="nofollow">Source</a></li>
+     rel="nofollow">Ver código</a></li>
             
           </ul>
 
           
             
-<form class="navbar-search pull-right" action="../search.html" method="get">
-  <input type="text" name="q" class="search-query" placeholder="Search" />
+<form class="navbar-form navbar-right" action="../search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Buscar" />
+ </div>
   <input type="hidden" name="check_keywords" value="yes" />
   <input type="hidden" name="area" value="default" />
 </form>
           
         </div>
-      </div>
     </div>
   </div>
 
 <div class="container">
-  
+  <div class="row">
+    <div class="col-md-12">
+      
   <div class="section" id="herramientas-a-utilizar">
 <span id="library-tools"></span><h1>2. Herramientas a Utilizar<a class="headerlink" href="#herramientas-a-utilizar" title="Permalink to this headline">¶</a></h1>
 <p>El <a class="reference internal" href="../index.html#primary-index"><em>SISTEMA DE EVALUACIÓN DOCENTE</em></a> fue desarrollado haciendo uso de las herramientas descritas a continuación:</p>
 <div class="section" id="requerimientos-de-software">
-<h2>2.1. Requerimientos de Software<a class="headerlink" href="#requerimientos-de-software" title="Permalink to this headline">¶</a></h2>
+<span id="library-sw-requirements"></span><h2>2.1. Requerimientos de Software<a class="headerlink" href="#requerimientos-de-software" title="Permalink to this headline">¶</a></h2>
 <p>A continuación se presenta un listado con el software utilizado para la elaboración del sistema:</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -177,15 +198,18 @@
 </table>
 <blockquote>
 <div><strong>Sistema Operativo:</strong> <a class="reference external" href="http://">Debian squeeze backports</a></div></blockquote>
-<span class="target" id="hw-requirements"><span id="sw-optional"></span></span></div>
+<span class="target" id="library-hw-requirements"><span id="library-sw-optional"></span></span></div>
 </div>
 
 
+    </div>
+      
+  </div>
 </div>
 <footer class="footer">
   <div class="container">
     <p class="pull-right">
-      <a href="#">Back to top</a>
+      <a href="#">Regresar a la cabecera</a>
       
     </p>
     <p>
