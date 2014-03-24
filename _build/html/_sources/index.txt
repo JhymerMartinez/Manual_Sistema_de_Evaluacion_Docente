@@ -7,8 +7,7 @@ SISTEMA DE EVALUACIÓN DOCENTE
 Bienvenidos a la guia de referencia del Sistema de Evaluación Docente de la `Universidad Nacional de Loja <http://www.unl.edu.ec>`_.
 
 
-.. _contents-list
-**Contenidos:**
+.. _contents-list:
 
 .. toctree::
    :maxdepth: 2
